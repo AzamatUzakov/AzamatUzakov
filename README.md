@@ -68,17 +68,21 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
 <img width="12" />
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
+<img width="12" />
 <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
 <img width="12" />
-
+<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
 <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
 <img width="12" />
 
-<img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
-<img width="12" />
+
 
 </div>
 
