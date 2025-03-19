@@ -1,9 +1,9 @@
-<div align="center">
+<div align="start">
   <h1> Front-End Developer | React & TypeScript</h1>
   <h2>Hi 👋, my name is Azamat!</h2>
   
-  <p>Passionate about building high-quality web applications with modern technologies.</p>
 
+  <br/>
   <br/>
 
   <div>
@@ -18,13 +18,12 @@
     </a>
   </div>
 </div>
+<br>
 
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey.filimonovalexey&"  />
-</div>
+
 
 ###
 
