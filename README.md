@@ -1,32 +1,24 @@
-<br clear="both">
-
 <div align="center">
-  <img height="100%" width="100%" src="https://media3.giphy.com/media/ZVik7pBtu9dNS/200.webp?cid=790b76112o9fhyzym2ot6a7xr3608msvyn7g701hsvryt13a&ep=v1_gifs_search&rid=200.webp&ct=g"  />
-</div>
-
-</div>
-
-###
-
-<h1 align="center">Привет👋 Меня зовут Азамат!</h1>
-
-###
-
-<div align="center">
- 
-  <a href="https://t.me/AzamatEl" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/azamat-uzakov-6b4188348/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-<a href="https://www.instagram.com/18_.aza._1?igsh=czhuaW1lM2NvZ2Vw" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
-
-  </a>
+  <h1> Front-End Developer | React & TypeScript</h1>
+  <h2>Hi 👋, my name is Azamat!</h2>
   
-  
+  <p>Passionate about building high-quality web applications with modern technologies.</p>
+
+  <br/>
+
+  <div>
+    <a href="https://t.me/AzamatEl" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="https://www.linkedin.com/in/azamat-uzakov-6b4188348/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.instagram.com/18_.aza._1?igsh=czhuaW1lM2NvZ2Vw" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+  </div>
 </div>
+
 
 ###
 
@@ -36,19 +28,10 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
 
 ###
 
-<p align="left">
-  Я — Frontend-разработчик. Мне 18 лет, и я активно развиваюсь в сфере веб-разработки.
-
-Зарабатываю на фрилансе, создавая адаптивные и современные интерфейсы, а также прохожу стажировку в компании Sam IT Global, где работаю над реальными проектами и совершенствую свои навыки.
-</p>
-
-###
-
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="left">🛠 Technologies:</h3>
 
 ###
 
@@ -99,7 +82,7 @@
 ###
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h3 align="left">🔥   My statistics :</h3>
 
 ###
 
