@@ -23,13 +23,20 @@
 ###
 
 
+<h3 align="left">📄 CV / Resume</h3>
+
+<div align="left">
+  <a href="https://docs.google.com/document/d/1zUHIMtTrAuGWk_ZhViWfnevpw3LxN8M-f-2Kt4gkqjs/edit?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/CV%20(En)-FF9800?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt=" En CV" />
+  </a>
+</div>
+
 
 ###
-
-
 ###
 
 <h3 align="left">🛠 Technologies:</h3>
+
 
 ###
 
