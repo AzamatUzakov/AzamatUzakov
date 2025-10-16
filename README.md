@@ -52,6 +52,9 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="scss logo" />
+<img width="12" />
+
 
 <!-- Фреймворки и библиотеки -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
@@ -94,6 +97,14 @@
 <!-- Базы данных -->
 <img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
 <img width="12" />
+
+<!-- Хостинг / деплой -->
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/vercel-1.svg" height="40" alt="vercel logo" />
+<img width="12" /> -->
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" alt="netlify logo" />
+<img width="12" />
+
+
 
 </div>
 
