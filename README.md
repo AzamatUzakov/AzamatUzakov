@@ -41,7 +41,6 @@
 ###
 
 <div align="left">
-
 <!-- Языки программирования -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
 <img width="12" />
@@ -66,12 +65,13 @@
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
 <img width="12" />
 
+<img src="https://skillicons.dev/icons?i=mui" height="40" alt="mui logo" />
+<img width="12" />
 <!-- Сборщики и инструменты -->
 <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
 <img width="12" />
 
-<!-- UI-библиотеки -->
-
+<!-- Здесь можно добавить UI-библиотеки, если они есть -->
 
 <!-- Дизайн-инструменты -->
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
@@ -80,7 +80,20 @@
 <!-- Контроль версий -->
 <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
 <img width="12" />
+<img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+<img width="12" />
 
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+<img width="12" />
+
+<!-- ORM -->
+<img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma logo" />
+<img width="12" />
+
+<!-- Базы данных -->
+<img src="https://skillicons.dev/icons?i=postgresql" height="40" alt="postgresql logo" />
+<img width="12" />
 
 </div>
 
