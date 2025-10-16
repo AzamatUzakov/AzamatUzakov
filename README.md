@@ -70,13 +70,16 @@
 
 <img src="https://skillicons.dev/icons?i=mui" height="40" alt="mui logo" />
 <img width="12" />
+
+<img src="./publick/shadcn.png" height="40" alt="shadcn logo" />
+<img width="12" />
+
 <!-- Сборщики и инструменты -->
 <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo" />
 <img width="12" />
 
 <!-- Здесь можно добавить UI-библиотеки, если они есть -->
-<img src="/publick/shadcn.png" height="40" alt="figma logo" />
-<img width="12" />
+
 <!-- Дизайн-инструменты -->
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 <img width="12" />
