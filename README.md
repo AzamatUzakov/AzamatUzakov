@@ -75,7 +75,8 @@
 <img width="12" />
 
 <!-- Здесь можно добавить UI-библиотеки, если они есть -->
-
+<img src="/publick/shadcn.png" height="40" alt="figma logo" />
+<img width="12" />
 <!-- Дизайн-инструменты -->
 <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo" />
 <img width="12" />
