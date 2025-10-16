@@ -99,8 +99,8 @@
 <img width="12" />
 
 <!-- Хостинг / деплой -->
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/vercel-1.svg" height="40" alt="vercel logo" />
-<img width="12" /> -->
+<img src="./publick/vercel.ico" height="40" alt="vercel logo" />
+<img width="12" /> 
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" alt="netlify logo" />
 <img width="12" />
 
