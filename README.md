@@ -108,7 +108,13 @@
 <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" height="40" alt="netlify logo" />
 <img width="12" />
 
+<img src="https://next-auth.js.org/img/logo/logo-sm.png" height="40" alt="nextauth logo" />
+<img width="12" /> 
 
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" height="40" alt="Redis logo" />
+  <img width="12" /> 
+
+  <img src="https://www.gstatic.com/recaptcha/api2/logo_48.png" height="40" alt="reCAPTCHA logo" />
 
 </div>
 
