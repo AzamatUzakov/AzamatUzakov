@@ -63,6 +63,9 @@
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
 <img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+<img width="12" />
+
 
 <!-- Стилизация -->
 <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
